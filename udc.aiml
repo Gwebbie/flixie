@@ -2,7 +2,7 @@
 <aiml>
   <category>
     <pattern> <set>recommendation</set> </pattern>
-    <template> Hallo ik ben Flixie! Ik kan je een aanbeveling geven. Ben je op zoek naar een film of een serie?</template>
+    <template> Hoi, ik ben Flixie! Ik help je met het vinden van een serie of een film. Welke wil je graag kijken?</template>
   </category>
   
    <category>
@@ -49,7 +49,7 @@
   
    <category>
     <pattern>*</pattern>
-    <template>Sorry, ik ben het kwijt! Ben je op zoek naar een film of een serie?</template>
+    <template>Sorry, ik ben het kwijt! Ik probeerde je te helpen met het vinden van een film of een serie. Welke wil je graag kijken?</template>
   </category>
   
   
